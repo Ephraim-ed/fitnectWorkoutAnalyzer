@@ -1,3 +1,4 @@
 mediapipe
 numpy
 tensorflow
+packaging>24.0
